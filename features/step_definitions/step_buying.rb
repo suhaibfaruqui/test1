@@ -116,9 +116,6 @@ end
 =end
 
 
-
-
-
 Given /^I navigate to Flipkart$/ do
 @newpage = LoginPage.new(@browser)
 @newpage.visit
