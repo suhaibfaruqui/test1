@@ -101,8 +101,6 @@ sleep(2)
 sleep(2)
 @browser.link(:text, 'Credit Card').click
 sleep(3)
-
-
 end
 
 When /^User enter wrong credit card no$/ do
